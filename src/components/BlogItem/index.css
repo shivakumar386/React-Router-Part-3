@@ -1,0 +1,36 @@
+.list-elements {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+  text-decoration: none;
+}
+
+.main-image {
+  width: 300px;
+}
+
+.avatar-image {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.details {
+  margin-left: 16px;
+}
+
+.author-details {
+  display: flex;
+  align-items: center;
+}
+
+.data-para {
+  color: #8e8e8e;
+}
+
+.data-heading {
+  font-family: 'Roboto';
+  font-size: 18px;
+}
